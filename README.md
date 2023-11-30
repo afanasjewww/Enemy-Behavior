@@ -4,7 +4,7 @@ This package includes two unique and engaging enemies, the Moss Goon and the Liz
 
 ## Table of Contents
 1. [Features](#features)
-2. [Installation](#installation)
+2. [Installation and Usage](#installation)
 3. [Customization](#customization)
 4. [License](#license)
 5. [Contacts](#contacts)
