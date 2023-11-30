@@ -4,7 +4,7 @@ This package includes two unique and engaging enemies, the Moss Goon and the Liz
 
 ## Table of Contents
 1. [Features](#features)
-2. [Installation and Usage](#installation)
+2. [Usage](#usage)
 3. [Customization](#customization)
 4. [License](#license)
 5. [Contacts](#contacts)
@@ -30,7 +30,7 @@ This package includes two unique and engaging enemies, the Moss Goon and the Liz
   - Fire mechanic for Moss Goon.
   - Enemy Health system
 
-## Installation and Usage
+## Usage
 Ensure that Unity NavMesh and Unity RP are in your project.
 1. Drag and drop the Moss Goon and Lizard prefabs into your game scene.
 2. Make sure that your ground has the proper layer, the **NavMesh Surface** component is also added to it and you click **bake** button.
@@ -47,4 +47,3 @@ This asset pack is released under the [MIT License](LICENSE). You are free to us
 
 ## Contacts
 [Viktors Afanasjevs](https://linktr.ee/afanasjewww) 
-
